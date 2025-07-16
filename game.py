@@ -1,1 +1,1 @@
-# https://throwerx-server-1.onrender.com
+# https://throwerx-server.onrender.com
