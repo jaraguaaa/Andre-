@@ -1,1 +1,1 @@
-# Substitua esse conteúdo com seu game.py final
+# https://throwerx-server-1.onrender.com
